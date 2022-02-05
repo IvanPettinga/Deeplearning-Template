@@ -67,6 +67,14 @@ mse,mae = my_model.evaluate(test_train,test_labels, verbose = 0)
 print(mse)
 print(mae)
 
+predicted_values = my_model.predict(features_test) 
+print(r2_score(labels_test, predicted_values)) 
+
+
+
+
+
+
 
 
 
