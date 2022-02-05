@@ -1,5 +1,5 @@
-# Deeplearning-Template
-A template for deeplearning models using the library tensorflow
+# Deeplearning Templates
+Templates for using deeplearning models with Tensorflow
 
-content
-1. Sequential model in Keras on WHO data
+page of contents
+1. Sequential model in Keras
